@@ -15,8 +15,8 @@ on:
 
 env:
   TZ: Asia/Kolkata
-  REPO:https://github.com/UtsavBalar1231/kernel_xiaomi_sm8250 
-  BRANCH:android12-next 
+  REPO:"https://github.com/UtsavBalar1231/kernel_xiaomi_sm8250" 
+  BRANCH:"android12-next" 
   token: ${{ secrets.TOKEN }}
   chat_id: ${{ secrets.CHAT_ID }}
 
